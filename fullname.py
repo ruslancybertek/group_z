@@ -1,5 +1,5 @@
 first_name = 'John'
-last_name = 'Rembo'
+last_name = 'Rambo'
 
 full_name = f"{first_name} {last_name}"
 
