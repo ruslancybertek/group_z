@@ -1,4 +1,4 @@
-target = 100
+target = int(input("Enter a number: "))
 n1, n2 = 1, 1
 count = 0
 num_list = []
